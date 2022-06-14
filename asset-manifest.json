@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.17eb08bc.css",
-    "main.js": "/static/js/main.89189e08.js",
-    "static/js/787.7846daf5.chunk.js": "/static/js/787.7846daf5.chunk.js",
-    "static/media/home_image.png": "/static/media/home_image.51b20d3196262d9c5fe2.png",
-    "static/media/calendar1.png": "/static/media/calendar1.a2aca9fd6eed0f8ba22d.png",
-    "static/media/art.png": "/static/media/art.b0f6252faa0e24d4e537.png",
-    "static/media/science.png": "/static/media/science.fcb2de92cdb0b55c7226.png",
-    "static/media/education.png": "/static/media/education.dacd6423c54438d708eb.png",
-    "static/media/calendar2.png": "/static/media/calendar2.1979f0c38fc55f69e0f3.png",
-    "static/media/calendar3.png": "/static/media/calendar3.31f1d0f8a55ec772f094.png",
-    "static/media/culture.png": "/static/media/culture.82e97bbf9ea06a4b468f.png",
-    "static/media/icomoon.svg?agg3w": "/static/media/icomoon.ae9ec6bf6a0e1fb2a958.svg",
-    "static/media/icomoon.eot?agg3w": "/static/media/icomoon.657d829958e9db68f4d0.eot",
-    "static/media/icomoon.woff?agg3w": "/static/media/icomoon.d65220950227fe9131d2.woff",
-    "static/media/icomoon.ttf?agg3w": "/static/media/icomoon.fca0d59344f4c5e197d9.ttf",
-    "index.html": "/index.html",
-    "main.17eb08bc.css.map": "/static/css/main.17eb08bc.css.map",
-    "main.89189e08.js.map": "/static/js/main.89189e08.js.map",
-    "787.7846daf5.chunk.js.map": "/static/js/787.7846daf5.chunk.js.map"
+    "main.css": "/web/static/css/main.4f221ba0.css",
+    "main.js": "/web/static/js/main.e488f63c.js",
+    "static/js/787.7846daf5.chunk.js": "/web/static/js/787.7846daf5.chunk.js",
+    "static/media/home_image.png": "/web/static/media/home_image.51b20d3196262d9c5fe2.png",
+    "static/media/calendar1.png": "/web/static/media/calendar1.a2aca9fd6eed0f8ba22d.png",
+    "static/media/art.png": "/web/static/media/art.b0f6252faa0e24d4e537.png",
+    "static/media/science.png": "/web/static/media/science.fcb2de92cdb0b55c7226.png",
+    "static/media/education.png": "/web/static/media/education.dacd6423c54438d708eb.png",
+    "static/media/calendar2.png": "/web/static/media/calendar2.1979f0c38fc55f69e0f3.png",
+    "static/media/calendar3.png": "/web/static/media/calendar3.31f1d0f8a55ec772f094.png",
+    "static/media/culture.png": "/web/static/media/culture.82e97bbf9ea06a4b468f.png",
+    "static/media/icomoon.svg?agg3w": "/web/static/media/icomoon.ae9ec6bf6a0e1fb2a958.svg",
+    "static/media/icomoon.eot?agg3w": "/web/static/media/icomoon.657d829958e9db68f4d0.eot",
+    "static/media/icomoon.woff?agg3w": "/web/static/media/icomoon.d65220950227fe9131d2.woff",
+    "static/media/icomoon.ttf?agg3w": "/web/static/media/icomoon.fca0d59344f4c5e197d9.ttf",
+    "index.html": "/web/index.html",
+    "main.4f221ba0.css.map": "/web/static/css/main.4f221ba0.css.map",
+    "main.e488f63c.js.map": "/web/static/js/main.e488f63c.js.map",
+    "787.7846daf5.chunk.js.map": "/web/static/js/787.7846daf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17eb08bc.css",
-    "static/js/main.89189e08.js"
+    "static/css/main.4f221ba0.css",
+    "static/js/main.e488f63c.js"
   ]
 }
