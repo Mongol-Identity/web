@@ -1,23 +1,27 @@
 {
-  "main.css": "/static/css/main.353b21c0.chunk.css",
-  "main.js": "/static/js/main.288d7c74.chunk.js",
-  "main.js.map": "/static/js/main.288d7c74.chunk.js.map",
-  "static/js/1.709d58a2.chunk.js": "/static/js/1.709d58a2.chunk.js",
-  "static/js/1.709d58a2.chunk.js.map": "/static/js/1.709d58a2.chunk.js.map",
-  "static/js/2.3fc729cb.chunk.js": "/static/js/2.3fc729cb.chunk.js",
-  "static/js/2.3fc729cb.chunk.js.map": "/static/js/2.3fc729cb.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.6ee34327.js",
-  "runtime~main.js.map": "/static/js/runtime~main.6ee34327.js.map",
-  "static/media/calendar3.png": "/static/media/calendar3.133f8ba6.png",
-  "static/media/home_image.png": "/static/media/home_image.9e2699fc.png",
-  "static/media/culture.png": "/static/media/culture.5732ac19.png",
-  "static/media/science.png": "/static/media/science.bc20d72a.png",
-  "static/media/art.png": "/static/media/art.7782bfcb.png",
-  "static/media/education.png": "/static/media/education.e2310175.png",
-  "static/media/calendar1.png": "/static/media/calendar1.f183b712.png",
-  "static/media/calendar2.png": "/static/media/calendar2.e7891038.png",
-  "static/css/main.353b21c0.chunk.css.map": "/static/css/main.353b21c0.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.ae31f173e0d236ab6e392fef59e46889.js": "/precache-manifest.ae31f173e0d236ab6e392fef59e46889.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.17eb08bc.css",
+    "main.js": "/static/js/main.89189e08.js",
+    "static/js/787.7846daf5.chunk.js": "/static/js/787.7846daf5.chunk.js",
+    "static/media/home_image.png": "/static/media/home_image.51b20d3196262d9c5fe2.png",
+    "static/media/calendar1.png": "/static/media/calendar1.a2aca9fd6eed0f8ba22d.png",
+    "static/media/art.png": "/static/media/art.b0f6252faa0e24d4e537.png",
+    "static/media/science.png": "/static/media/science.fcb2de92cdb0b55c7226.png",
+    "static/media/education.png": "/static/media/education.dacd6423c54438d708eb.png",
+    "static/media/calendar2.png": "/static/media/calendar2.1979f0c38fc55f69e0f3.png",
+    "static/media/calendar3.png": "/static/media/calendar3.31f1d0f8a55ec772f094.png",
+    "static/media/culture.png": "/static/media/culture.82e97bbf9ea06a4b468f.png",
+    "static/media/icomoon.svg?agg3w": "/static/media/icomoon.ae9ec6bf6a0e1fb2a958.svg",
+    "static/media/icomoon.eot?agg3w": "/static/media/icomoon.657d829958e9db68f4d0.eot",
+    "static/media/icomoon.woff?agg3w": "/static/media/icomoon.d65220950227fe9131d2.woff",
+    "static/media/icomoon.ttf?agg3w": "/static/media/icomoon.fca0d59344f4c5e197d9.ttf",
+    "index.html": "/index.html",
+    "main.17eb08bc.css.map": "/static/css/main.17eb08bc.css.map",
+    "main.89189e08.js.map": "/static/js/main.89189e08.js.map",
+    "787.7846daf5.chunk.js.map": "/static/js/787.7846daf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17eb08bc.css",
+    "static/js/main.89189e08.js"
+  ]
 }
