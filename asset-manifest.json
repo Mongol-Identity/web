@@ -1,27 +1,23 @@
 {
-  "files": {
-    "main.css": "/web/static/css/main.4f221ba0.css",
-    "main.js": "/web/static/js/main.e488f63c.js",
-    "static/js/787.7846daf5.chunk.js": "/web/static/js/787.7846daf5.chunk.js",
-    "static/media/home_image.png": "/web/static/media/home_image.51b20d3196262d9c5fe2.png",
-    "static/media/calendar1.png": "/web/static/media/calendar1.a2aca9fd6eed0f8ba22d.png",
-    "static/media/art.png": "/web/static/media/art.b0f6252faa0e24d4e537.png",
-    "static/media/science.png": "/web/static/media/science.fcb2de92cdb0b55c7226.png",
-    "static/media/education.png": "/web/static/media/education.dacd6423c54438d708eb.png",
-    "static/media/calendar2.png": "/web/static/media/calendar2.1979f0c38fc55f69e0f3.png",
-    "static/media/calendar3.png": "/web/static/media/calendar3.31f1d0f8a55ec772f094.png",
-    "static/media/culture.png": "/web/static/media/culture.82e97bbf9ea06a4b468f.png",
-    "static/media/icomoon.svg?agg3w": "/web/static/media/icomoon.ae9ec6bf6a0e1fb2a958.svg",
-    "static/media/icomoon.eot?agg3w": "/web/static/media/icomoon.657d829958e9db68f4d0.eot",
-    "static/media/icomoon.woff?agg3w": "/web/static/media/icomoon.d65220950227fe9131d2.woff",
-    "static/media/icomoon.ttf?agg3w": "/web/static/media/icomoon.fca0d59344f4c5e197d9.ttf",
-    "index.html": "/web/index.html",
-    "main.4f221ba0.css.map": "/web/static/css/main.4f221ba0.css.map",
-    "main.e488f63c.js.map": "/web/static/js/main.e488f63c.js.map",
-    "787.7846daf5.chunk.js.map": "/web/static/js/787.7846daf5.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.4f221ba0.css",
-    "static/js/main.e488f63c.js"
-  ]
+  "main.css": "/web/static/css/main.353b21c0.chunk.css",
+  "main.js": "/web/static/js/main.288d7c74.chunk.js",
+  "main.js.map": "/web/static/js/main.288d7c74.chunk.js.map",
+  "static/js/1.709d58a2.chunk.js": "/web/static/js/1.709d58a2.chunk.js",
+  "static/js/1.709d58a2.chunk.js.map": "/web/static/js/1.709d58a2.chunk.js.map",
+  "static/js/2.3fc729cb.chunk.js": "/web/static/js/2.3fc729cb.chunk.js",
+  "static/js/2.3fc729cb.chunk.js.map": "/web/static/js/2.3fc729cb.chunk.js.map",
+  "runtime~main.js": "/web/static/js/runtime~main.1f824dfc.js",
+  "runtime~main.js.map": "/web/static/js/runtime~main.1f824dfc.js.map",
+  "static/media/calendar3.png": "/web/static/media/calendar3.133f8ba6.png",
+  "static/media/home_image.png": "/web/static/media/home_image.9e2699fc.png",
+  "static/media/culture.png": "/web/static/media/culture.5732ac19.png",
+  "static/media/science.png": "/web/static/media/science.bc20d72a.png",
+  "static/media/art.png": "/web/static/media/art.7782bfcb.png",
+  "static/media/education.png": "/web/static/media/education.e2310175.png",
+  "static/media/calendar1.png": "/web/static/media/calendar1.f183b712.png",
+  "static/media/calendar2.png": "/web/static/media/calendar2.e7891038.png",
+  "static/css/main.353b21c0.chunk.css.map": "/web/static/css/main.353b21c0.chunk.css.map",
+  "index.html": "/web/index.html",
+  "precache-manifest.340f37f16fe287af8a159b2d553c6c9c.js": "/web/precache-manifest.340f37f16fe287af8a159b2d553c6c9c.js",
+  "service-worker.js": "/web/service-worker.js"
 }
