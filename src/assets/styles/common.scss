@@ -1,0 +1,131 @@
+@import './variables.scss';
+@import './typography.scss';
+
+@font-face {
+  font-family: Rubik;
+  src: url('../fonts/Rubik-Regular.ttf');
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@import './components/index.scss';
+@import './home.scss';
+@import './about_us.scss';
+@import './news.scss';
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?2ju3pv');
+  src:  url('../fonts/icomoon.eot?2ju3pv#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?2ju3pv') format('truetype'),
+    url('../fonts/icomoon.woff?2ju3pv') format('woff'),
+    url('../fonts/icomoon.svg?2ju3pv#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="mi-icon-"], [class*=" mi-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mi-icon-chevron-right:before {
+  content: "\e91b";
+}
+.mi-icon-circle:before {
+  content: "\e917";
+}
+.mi-icon-share:before {
+  content: "\e918";
+}
+.mi-icon-filter:before {
+  content: "\e919";
+}
+.mi-icon-chevron-left:before {
+  content: "\e91a";
+}
+.mi-icon-search:before {
+  content: "\e90c";
+}
+.mi-icon-users:before {
+  content: "\e90e";
+}
+.mi-icon-translator:before {
+  content: "\e912";
+}
+.mi-icon-flag:before {
+  content: "\e913";
+}
+.mi-icon-corner-up-right:before {
+  content: "\e914";
+}
+.mi-icon-film:before {
+  content: "\e916";
+}
+.mi-icon-heart:before {
+  content: "\e908";
+}
+.mi-icon-mail:before {
+  content: "\e900";
+}
+.mi-icon-instagram:before {
+  content: "\e901";
+}
+.mi-icon-youtube:before {
+  content: "\e902";
+}
+.mi-icon-twitter:before {
+  content: "\e903";
+}
+.mi-icon-facebook:before {
+  content: "\e904";
+}
+.mi-icon-send:before {
+  content: "\e905";
+}
+.mi-icon-location:before {
+  content: "\e906";
+}
+.mi-icon-handshake:before {
+  content: "\e907";
+}
+.mi-icon-hand:before {
+  content: "\e909";
+}
+.mi-icon-gift:before {
+  content: "\e90a";
+}
+.mi-icon-linkedin:before {
+  content: "\e90b";
+}
+.mi-icon-horn:before {
+  content: "\e90d";
+}
+.mi-icon-book:before {
+  content: "\e90f";
+}
+.mi-icon-medical:before {
+  content: "\e910";
+}
+.mi-icon-chevron-right-circle:before {
+  content: "\e911";
+}
+.mi-icon-calendar:before {
+  content: "\e915";
+}
+  
+  

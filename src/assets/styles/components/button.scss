@@ -1,0 +1,50 @@
+.mi-button {
+    color: $white;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    padding: 9px 30px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.mi-button:hover {
+    opacity: 80%;
+    transition: all ease-in-out 0.3s;
+}
+
+.mi-button-primary:hover {
+    background-color: $primaryColor;
+    transition: all ease-in-out 0.3s;
+}
+
+.mi-button-primary {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.mi-button-primary1 {
+    background-color: $primaryColor;
+}
+
+.mi-button-secondary {
+    background-color: $secondary1;
+}
+
+.mi-button-secondary2 {
+    background-color: $secondary2;
+}
+
+.mi-button-secondary3 {
+    background-color: $secondary3;
+}
+
+.mi-button-primary-white {
+    background-color: $white;
+    color: $primaryColor;
+}
+
+.mi-button-primary-white:hover {
+    background-color: $primaryColor25;
+    color: $white;
+    transition: all ease-in-out 0.3s;
+}

@@ -1,0 +1,24 @@
+.mi-nav-button {
+    color: $white;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    padding: 9px 30px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.mi-nav-button-primary:hover {
+    background-color: $primaryColor;
+    transition: all ease-in-out 0.3s;
+    color: $white;
+}
+
+.mi-nav-button-primary {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.mi-nav-button-selected {
+    background-color: $primaryColor;
+    color: $white;
+}

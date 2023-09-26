@@ -1,0 +1,122 @@
+.mi-footer-container {
+    
+}
+
+.mi-footer {
+    background-color: $dark;
+    padding: 20px;
+}
+
+.mi-copyright {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    .mi-footer-logo {
+        width: 130px;
+        padding-top: 30px;
+        padding-bottom: 35px;
+    }
+    .mi-text-small {
+        color: $gray;
+        padding-bottom: 10px;
+    }
+}
+
+.mi-social-links {
+    justify-content: left;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+}
+
+.mi-social-link {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-right: 15px;
+    height: 32px;
+    width: 32px;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+    text-decoration: none;
+    i {
+        font-size: 15px;
+        color: $white;
+    }
+}
+
+.mi-social-link:hover {
+    transform: scale(1.2);
+    transition: all ease-in-out 0.3s;
+}
+
+.mi-footer-menu-title {
+    color: $white;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.mi-footer-menu {
+    color: $white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.mi-footer-menu-split {
+    padding-top: 5px;
+}
+
+.mi-footer-menu:hover {
+
+}
+
+.mi-email-subscribe {
+    position: relative;
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    input {
+        background-color: rgba(255, 255, 255, 0.2);
+        border: none;
+        padding: 9px 12px;
+        border-radius: 8px;
+        width: 100%;
+    }
+    input::placeholder {
+        color: $white;
+        font-size: 14px;
+    }
+}
+
+.mi-email-subscribe-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    i {
+        color: $white;
+        font: 16px;
+        cursor: pointer;
+    }
+    i:hover {
+        color: darken($color: $white, $amount: 20);
+    }
+}
+
+.mi-footer-oscr {
+    width: 100px;
+}
+
+.mi-footer-report {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: $primaryColor;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    h1 {
+        color: $white;
+        padding-right: 36px;
+    }
+}

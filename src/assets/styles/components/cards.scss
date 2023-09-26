@@ -1,0 +1,200 @@
+.mi-card-gradient {
+    background-image: linear-gradient(transparent, $primaryColor);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    border-radius: 20px;
+}
+
+.mi-calendar-card {
+    width: 300px;
+    aspect-ratio: 5/(3.5);
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+    img {
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+    }
+    margin-right: 30px;
+}
+
+.mi-calendar-card-status {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: $secondary1;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: $white;
+}
+
+.mi-calendar-card-date {
+    position: absolute;
+    top: 20px;
+    right: 0px;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(12px);
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 10px 20px;
+    color: $white;
+}
+
+.mi-calendar-card-data {
+    position: absolute;
+    bottom: 50px;
+    left: 20px;
+    .mi-card-date {
+        color: $white;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .mi-card-title {
+        color: $white;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+    }
+}
+
+.mi-calendar-card-location {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    i {
+        color: $white;
+        margin-right: 5px;
+    }
+    p {
+        color: $white;
+        margin: 0px !important;
+        font-size: 12px;
+    }
+}
+
+.mi-resource-card {
+    border: 1px solid $gray;
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+    border-radius: 20px;
+    background-color: $white;
+    padding: 20px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 210px;
+}
+
+.mi-resource-card-icon {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    border: 1px solid $primaryColor25;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    i {
+        color: $primaryColor;
+        font-size: 16px;
+    }
+}
+
+.mi-resource-card-sub-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    opacity: 50%;
+}
+
+.mi-resource-card-title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    height: 50px;
+}
+
+.mi-resource-card-detail {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    div {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    i {
+        font-size: 16px;
+        color: $primaryColor;
+    }
+    cursor: pointer;
+}
+
+.mi-resource-card-purpose {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 36px;
+    opacity: 50%;
+}
+
+.mi-member-card {
+    background: #FFFFFF;
+    border: 1px solid $gray;
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+    border-radius: 20px;
+    width: 200px;
+    height: 180px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+
+.mi-member-card-image {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+    img {
+        width: 80px;
+        height: 80px;
+        border-radius: 100%;
+    }
+}
+
+.mi-member-card-name {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+.mi-member-card-position {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 140%;
+    text-align: center;
+    color: $primaryColor50;
+}

@@ -1,0 +1,21 @@
+.mi-header {
+    background-color: $primaryColor;
+    padding: 10px 30px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.mi-header-logo {
+    width: 130px;
+}
+
+.mi-header-logo:hover {
+    cursor: pointer;
+}
+
+.mi-header-items {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
